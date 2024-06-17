@@ -15,8 +15,10 @@ class A
 public static void main(String[] args)
 {
 B a = new B();
-a.add(10,90);
+a.add(100,900);
 
+
+  
 }
 
 }
